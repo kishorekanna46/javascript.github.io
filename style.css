@@ -3,13 +3,15 @@ console.log("variables")
 var a;
 var a= 60;
 console.log(a);
-//------------------------------//
+
+
 var a= 20;
 var b= 30;
 console.log(a+b);
 a=40;
 console.log(a+b);
-//-------------------------------//
+
+
 //==>let
 function let(){
     let a=20;
@@ -18,12 +20,13 @@ function let(){
     console.log(a);
 }
 let();
-//----------------------//
+
 //const//
 
 const c=66;
 console.log(c);
-//---------------------------------//
+
+
 //Data types//
 
 console.log("DATA TYPES")
@@ -47,7 +50,7 @@ console.log(typeof(e));
 
 dtypes();
 
-//--------------------------------------------------------------------------------------//
+
 //Synchronous// 
 console.log(" ----synchronous----")
 function synchronous(){
@@ -61,7 +64,7 @@ function synchronous(){
     console.log("eight")
 }
 synchronous();
-// -------------------//
+
 
 console.log("------- Asynchronous -------")
 function asyn(){
